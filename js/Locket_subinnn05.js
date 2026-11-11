@@ -1,6 +1,6 @@
 // ========= ID ========= //
 // Locket: Gold + Filter Pack
-// @duyvinh09
+// @subinnn05
 // ========= Phần cố định ========= //
 
 // Lấy User-Agent (không thực sự dùng đến, nhưng giữ nguyên theo code gốc)
